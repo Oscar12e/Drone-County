@@ -1,0 +1,2 @@
+# Drone-County
+En una ciudad donde los drones son el medio principal de transporte surge el problema de coordinar los vuelos para que los millones de usuarios puedan llegar rápidamente (y sin chocar ojala) a su destino. Para esto se desarrolla el siguiente simulador, para realizar viajes seguros, eficientes y conseguir un 100 en la tarea programada que sin duda nos ayudará a pasar el curso de Análisis de Algoritmos. 
